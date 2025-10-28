@@ -54,3 +54,13 @@ Adding drill-through pages for detailed regional insights
 Incorporating time-based forecasting using Power BI predictive visuals
 
 Integration with live data sources for real-time updates
+
+<img width="956" height="538" alt="Screenshot 2025-10-28 152439" src="https://github.com/user-attachments/assets/e762a34b-a138-45e6-aa9d-f50548049956" />
+<img width="604" height="588" alt="Screenshot 2025-10-21 175048" src="https://github.com/user-attachments/assets/0817adfd-d602-484d-8d13-f10e08008a48" />
+
+
+
+
+
+
+
